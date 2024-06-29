@@ -1,2 +1,2 @@
 # Codsoft_taskn_01
-C++ Programming Internship
+TASK 01:NUMBER GUESSING GAME
